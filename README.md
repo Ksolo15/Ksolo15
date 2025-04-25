@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Your Name
+Gmail | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)
+*"Your personal tagline or quote."*
+
+## 🎓 About Me
+A brief introduction about your journey and what excites you in the tech world.
+
+## 🚀 What I Do
+- 🔍 Exploring cutting-edge tech in ML/AI
+- 🖥️ Building user-friendly web apps
+- 📊 Data-driven decision-making
+
+## 🛠️ Technical Arsenal
+### Programming Languages:
+- [Python](https://www.python.org/) (Proficient in backend and AI)
+- [JavaScript](https://www.javascript.com/) (Frontend development)
+
+### Frameworks & Tools:
+- [React](https://reactjs.org/) 
+- [Next.js](https://nextjs.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+
+### Cloud & DevOps:
+- [AWS](https://aws.amazon.com/)
+- [Docker](https://www.docker.com/)
+
+## 🤝 Let's Connect!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile)!
