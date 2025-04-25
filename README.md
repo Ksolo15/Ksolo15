@@ -42,3 +42,8 @@ A brief introduction about your journey and what excites you in the tech world.
 
 ## 🤝 Let's Connect!
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile)!
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ksolo15/Ksolo15/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ksolo15/Ksolo15/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Ksolo15/Ksolo15/output/github-snake.svg" />
+</picture>
