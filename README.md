@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Your Name
-Gmail | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourportfolio.com)
+# Solomon Mtetwa
+Gmail | [LinkedIn](www.linkedin.com/in/solomon-mtetwa-8a65b116b) | [Portfolio](https://yourportfolio.com)
 *"Your personal tagline or quote."*
 
 ## 🎓 About Me
-A brief introduction about your journey and what excites you in the tech world.
+I am a dedicated and passionate college student pursuing a B.S. in Computer Engineering. I 
+possess a strong understanding of user interface, testing, and debugging processes, as well as 
+expertise in web system design, installation, testing, and maintenance. My skill set is diverse 
+and promising, and I am proficient in various technologies, including Java, C#, HTML, CSS, 
 
 ## 🚀 What I Do
 - 🔍 Exploring cutting-edge tech in ML/AI
